@@ -1,6 +1,4 @@
 # Basic Bot
- 
-# Discord Ticket Bot
 
 A simple Discord bot designed to manage support tickets using the latest Discord API features. This bot allows users to create support tickets, log conversations, and ensures a smooth ticket management process for staff.
 
