@@ -1,0 +1,3 @@
+1. fix trancripts and make logs channel priv for admin perms only
+2. fix msgs needed to be reinit when restart
+3. fix ticket_data.json its kinda shit can be remade
