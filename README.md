@@ -22,22 +22,19 @@ A simple Discord bot designed to manage support tickets using the latest Discord
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
-Install the required packages:
+   git clone https://github.com/dxv3/basic-bot
+   cd basic-bot
 
-bash
-Copy code
-pip install discord.py
-Create a config.json file in the project directory with your bot token:
+2. Install the required packages:
+   ```bash
+   pip install discord.py
 
-json
-Copy code
+3. Edit config.json n add your bot token:
+   ```bash
 {
     "TOKEN": "YOUR_BOT_TOKEN"
 }
-Run the bot:
 
-bash
-Copy code
-python main.py
+4. Run the bot:
+   ```bash
+    python main.py
