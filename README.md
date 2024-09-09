@@ -31,9 +31,9 @@ A simple Discord bot designed to manage support tickets using the latest Discord
 
 3. Edit config.json n add your bot token:
    ```bash
-{
-    "TOKEN": "YOUR_BOT_TOKEN"
-}
+   {
+      "TOKEN": "YOUR_BOT_TOKEN"
+   }
 
 4. Run the bot:
    ```bash
